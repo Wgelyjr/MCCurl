@@ -1,0 +1,16 @@
+#Comments will not be read by the config file, annotated by a pound key.
+#New MC lists will be annotated by ">"; the authentication, username, and
+#list id can be placed below in any order. Any characters after the carrot
+#key will be used as the title of the output.
+
+#Peace Lutheran Church group
+>Church
+user:leannwely
+auth:08b4aad947c40e39b964f390148b3e82-us1
+listid:d6409bca4f
+
+#Non-functional entry, for error handling/debugging
+>Test
+user:jaosdf
+auth:q873q4987q4958
+listid:8as98dfah
