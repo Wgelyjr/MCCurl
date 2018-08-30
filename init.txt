@@ -5,9 +5,9 @@
 
 #Peace Lutheran Church group
 >Church
-user:leannwely
-auth:08b4aad947c40e39b964f390148b3e82-us1
-listid:d6409bca4f
+user:defaultuser
+auth:0000000000000000000000-us1
+listid:a000a0a00a0a
 
 #Non-functional entry, for error handling/debugging
 >Test
